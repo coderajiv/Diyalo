@@ -1,0 +1,20 @@
+{
+  "name": "Diyalo",
+  "short_name": "Diyalo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#317EFB",
+  "icons": [
+    {
+      "src": "/tdt.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/tdt.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ]
+}
