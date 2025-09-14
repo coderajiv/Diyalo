@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({ subsets: ["latin"], variable: "--font-geist-mono"
 export const metadata = {
   title: "The Diyalo Traders",
   description: "Premium Smartphones and Accessories",
-  // manifest: "/manifest.json", // <-- REMOVE THIS LINE
+  manifest: "/manifest.json", // <-- REMOVE THIS LINE
 };
 
 export default function RootLayout({ children }) {

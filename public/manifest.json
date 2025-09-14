@@ -7,14 +7,14 @@
   "theme_color": "#317EFB",
   "icons": [
     {
-      "src": "/tdt.jpg",
+      "src": "/tdt.png",
       "sizes": "192x192",
-      "type": "image/jpg"
+      "type": "image/png"
     },
     {
-      "src": "/tdt.jpg",
+      "src": "/tdt.png",
       "sizes": "512x512",
-      "type": "image/jpg"
+      "type": "image/png"
     }
   ]
 }
